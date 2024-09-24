@@ -5,4 +5,4 @@ Added Aiml lab2 (DFS,BFS,A* Algorithm) through collab...https://github.com/Akshi
 
 Added Aiml lab3 (Minimax & AlphaBetaProning) through collab...https://github.com/Akshith798/AIML-SRU/blob/main/Lab01-AIML.ipynb
 
-Added Aiml lab4      https://github.com/Akshith798/Akshith798/blob/main/AIML4.ipynb
+
